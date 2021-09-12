@@ -20,12 +20,20 @@
     ],
     "homepage": "https://github.com/Gigadrive/minecraft-avatar-urls",
     "readme": "README.md",
+    "autoload": {
+        "psr-4": {
+            "Gigadrive\\MinecraftAvatar\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Mehdi Baaboura",
             "email": "mbaaboura@gigadrivegroup.com"
         }
     ],
+    "require": {
+        "php": "^7.1 || ^8.0"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     }
