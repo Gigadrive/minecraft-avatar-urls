@@ -21,12 +21,24 @@ class MinecraftAvatar extends AbstractMinecraftAvatarGenerator {
 	public const SERVICE_CRAFTHEAD = "crafthead";
 
 	/**
+	 * @var string SERVICE_MCHEADS
+	 */
+	public const SERVICE_MCHEADS = "mcheads";
+
+	/**
+	 * @var string SERVICE_CRAVATAR
+	 */
+	public const SERVICE_CRAVATAR = "cravatar";
+
+	/**
 	 * @var array SERVICES
 	 */
 	public const SERVICES = [
 		self::SERVICE_MINOTAR,
 		self::SERVICE_CRAFATAR,
-		self::SERVICE_CRAFTHEAD
+		self::SERVICE_CRAFTHEAD,
+		self::SERVICE_MCHEADS,
+		self::SERVICE_CRAVATAR
 	];
 
 	/**
