@@ -1,0 +1,31 @@
+{
+    "name": "gigadrive/minecraft-avatar-urls",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "library",
+        "utility",
+        "php",
+        "extension",
+        "Gigadrive",
+        "minecraft",
+        "avatar",
+        "url",
+        "generator",
+        "crafthead",
+        "minotar",
+        "crafatar"
+    ],
+    "homepage": "https://github.com/Gigadrive/minecraft-avatar-urls",
+    "readme": "README.md",
+    "authors": [
+        {
+            "name": "Mehdi Baaboura",
+            "email": "mbaaboura@gigadrivegroup.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

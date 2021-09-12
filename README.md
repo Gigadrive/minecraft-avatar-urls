@@ -1,0 +1,1 @@
+# Minecraft Avatar URLs
