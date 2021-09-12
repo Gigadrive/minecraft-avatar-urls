@@ -23,7 +23,10 @@
     "autoload": {
         "psr-4": {
             "Gigadrive\\MinecraftAvatar\\": "src/"
-        }
+        },
+        "files": [
+            "src/global_functions.php"
+        ]
     },
     "authors": [
         {
