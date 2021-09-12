@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
+    "description": "Easily generate URLs to Minecraft avatars with the ability to switch between services",
     "keywords": [
         "library",
         "utility",
